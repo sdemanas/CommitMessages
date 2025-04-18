@@ -3,9 +3,9 @@ Self documentation page for commit messages
 
 ## Table of Contents
 
-- [Conventional Commit Message Types](#-conventional-commit-message-types)
-- [Breaking Changes](#-breaking-changes)
-- [Issue References in Footer](#-issue-references-in-footer)
+- [Conventional Commit Message Types](conventional-commit-message-types)
+- [Breaking Changes](breaking-changes)
+- [Issue References in Footer](issue-references-in-footer)
 
 
 ## Conventional Message Types
